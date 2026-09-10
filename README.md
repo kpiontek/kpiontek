@@ -1,6 +1,6 @@
 # Kyle Piontek
 
-Senior full stack developer in Vermont. Self-taught since I was 12, fifteen years in.
+Senior full stack developer in Vermont. Self-taught since I was 12, working professionally for the last 15 years.
 
 Enterprise platforms by day, my own products the rest of the time. Most of what I ship
 is private or lives on its own domain, so this account is quieter than the work is.
